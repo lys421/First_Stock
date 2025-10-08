@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .word {
+    text-align: center;
+    background-color: aqua;
+    width: 600px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* 新增按钮样式 */
+  .word button {
+    background-color: #4CAF50; /* 绿色背景 */
+    border: none; /* 去除边框 */
+    color: white; /* 白色文字 */
+    padding: 10px 20px; /* 内边距 */
+    text-align: center; /* 文字居中 */
+    text-decoration: none; /* 去除文字下划线 */
+    display: inline-block; /* 行内块元素 */
+    font-size: 16px; /* 字体大小 */
+    margin: 10px 5px; /* 外边距 */
+    cursor: pointer; /* 鼠标悬停手型 */
+    border-radius: 8px; /* 圆角 */
+    transition: background-color 0.3s; /* 背景色过渡效果 */
+  }
+  
+  .word button:hover {
+    background-color: #45a049; /* 悬停时的背景色 */
+  }

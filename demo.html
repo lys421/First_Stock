@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>背单词</title>
+  </head>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <body>
+    <div id="app">
+      <div class="word">
+        <h1>{{i+1}}.{{words[i].word}}</h1>
+        <h3 v-show="flag">{{words[i].mean}}</h3>
+      <button @click="getMean">{{!flag?'查看意思':'隐藏意思'}}</button>
+      <button @click="subWord">上一个</button>
+      <button @click="addWord">下一个</button>
+      </div>
+    </div>
+    <script src="vue.js"></script>
+    <script src="demo.js"></script>
+  </body>
+</html>
