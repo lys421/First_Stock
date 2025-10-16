@@ -106,6 +106,23 @@
    {"word":"compose","mean":"创作，组成，构成"},
    {"word":"posture","mean":"姿势，姿态，立场"},
    {"word":"conceive","mean":"设想，可能的情况，怀孕"},
-   {"word":"preceduent","mean":"先例，先决条件"}
+   {"word":"preceduent","mean":"先例，先决条件"},
+   {"word":"approve","mean":"赞成，同意，赞许"},
+   {"word":"splush","mean":"水泡，飞溅，溅射"},
+   {"word":"consistent","mean":"连续的，一致的"},
+   {"word":"consist","mean":"组成，构成"},
+   {"word":"consistency","mean":"连续性，一致性"},
+   {"word":"regulate","mean":"管理，控制，规定，规范"},
+   {"word":"subside","mean":"减弱，消退，下沉"},
+   {"word":"comply","mean":"遵守，服从，顺从"},
+   {"word":"revenue","mean":"收入"},
+   {"word":"contend","mean":"主张，认为，竞争"},
+   {"word":"grip","mean":"紧握，理解，影响力"},
+   {"word":"grope","mean":"摸索，寻找"},
+   {"word":"nominate","mean":"提名，推荐，投票"},
+   {"word":"nominal","mean":"名目上的，名目上的"},
+   {"word":"comply","mean":"遵守，服从，顺从"},
+   {"word":"convene","mean":"召集，会议，召集"},
+   {"word":"conservative","mean":"保守的，不改变的"}
 ]
 }
